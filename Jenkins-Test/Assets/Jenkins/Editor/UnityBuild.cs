@@ -94,7 +94,7 @@ public class UnityBuild {
     private static readonly string DriveTempDirectory = "C:/Users/PC-14/Documents";
     private static readonly string DriveTempFolderName = "JenkinsTemp";
 
-    private static readonly string DriveDirectory = "C:/Users/PC-14/Google Drive";
+    private static readonly string DriveDirectory = "C:/Users/PC-14/Desktop/_jenkins";
     private static readonly string DriveFolderName = "Jenkins";
 
     private static string DriveBuildLocation => Path.Combine(DriveDirectory, DriveFolderName);
